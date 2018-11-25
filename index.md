@@ -13,6 +13,6 @@ I made a dual axis solar tracker using Arduino components. Our team 3D printed a
 
 | Before Power Optimization | After Power Optimization |
 | --- | --- |
-| ![Solar Tracker Before Optimization](solartrackerbefore.gif) | ![Solar Tracker After Optimization](solartrackerafter.gif) |
+| ![Solar Tracker Before Optimization](solartrackerbefore.gif =300x1000) | ![Solar Tracker After Optimization](solartrackerafter.gif=300x1000) |
 
 ### Mars Rover Motor Controller
